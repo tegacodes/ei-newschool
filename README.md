@@ -1,21 +1,23 @@
-# ei-newschool
+## Eccentric Interfaces Workshop
+#### Re-Lab Spring Workshop
+#### The New School, NYC
 
-###Outline
+### Outline
 * Intro to eccentric interfaces
 * Non-human clients
 * Particle + p5s demonstration
 
-###In(A)spirational practice Linkz
+### In(A)spirational practice Linkz
 * big list of [eccentric practices.](https://github.com/tegacodes/EccentricInterfaces/blob/master/practice.md)
 
-###Technical Resources
+### Technical Resources
 
 * Getting started with [p5js + basic particle code examples.](https://github.com/tegacodes/p5js-sensing/tree/master/P5-Particle/1-LED-LDR-p5) [Video intro](https://www.youtube.com/watch?v=0QjgnEBp__U)
 * [p5.js](https://p5js.org/)
 * [Particle](https://www.particle.io/)
 * Related video tutorials for p5js from Shiffman [JSON 1](https://www.youtube.com/watch?v=_NFkzw6oFtQ), [JSON 2](https://www.youtube.com/watch?v=118sDpLOClw),[REST APIS](https://www.youtube.com/watch?v=rJaXOFfwGVw)
 
-###Readings
+### Readings
 
 * Potter, Emily. "Climate change and the problem of representation." (2009). [Online](http://www.australianhumanitiesreview.org/archive/Issue-May-2009/potter.htm)
 * Latour, Bruno. "A cautious Prometheus? A few steps toward a philosophy of design (with special attention to Peter Sloterdijk)." Proceedings of the 2008 annual international conference of the design history society. 2008. [Online](http://www.bruno-latour.fr/sites/default/files/112-DESIGN-CORNWALL-GB.pdf)
