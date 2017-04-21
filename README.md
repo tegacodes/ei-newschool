@@ -1,6 +1,7 @@
 ## Eccentric Interfaces Workshop
-#### Re-Lab Spring Workshop
-#### The New School, NYC
+Re-Lab Spring Workshop  
+The New School, NYC  
+Friday April 21st.
 
 ### Outline
 * Intro to eccentric interfaces
