@@ -18,3 +18,6 @@
 
 # Function Variable
 * Read a [photoresistor example.](https://docs.particle.io/guide/getting-started/examples/electron/#read-your-photoresistor-function-and-variable)
+
+
+Try this [p5.js example.](http://alpha.editor.p5js.org/brain/sketches/rykhCfPCx)
