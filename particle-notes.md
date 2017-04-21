@@ -1,14 +1,14 @@
-#Getting started with particle
+# Getting started with particle
 * * Sign up to the [particle website.](https://www.particle.io/)
 
-## Set up
+### Set up
 * Easiest way to set it up is by downloading particle the app and doing it via iphone. Here's [the setup.](https://docs.particle.io/guide/getting-started/start/photon/)
 * Via USB and using your computer (you need to install node). [Guide is here.](https://docs.particle.io/guide/getting-started/connect/photon/)
 
-## Basics
+### Basics
 * Device Modes (what do the [flashing lights mean?](https://docs.particle.io/guide/getting-started/modes/photon/))
 
-## Wireless Details
+### Wireless Details
 * NAME: brains PW: nancy123
 
 # Programming your particle.
