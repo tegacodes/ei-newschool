@@ -6,7 +6,7 @@ Friday April 21st.
 ### Outline
 * Intro to eccentric interfaces
 * Non-human clients
-* Particle + p5s demonstration
+* Particle + p5s demonstration.
 
 ### Inspirational practice Linkz
 * big list of [eccentric practices.](https://github.com/tegacodes/EccentricInterfaces/blob/master/practice.md)
@@ -15,7 +15,8 @@ Friday April 21st.
 
 * Getting started with p5js + basic particle [code examples](https://github.com/tegacodes/p5js-sensing/tree/master/P5-Particle/1-LED-LDR-p5). Or a [video intro](https://www.youtube.com/watch?v=0QjgnEBp__U)
 * [p5.js](https://p5js.org/)
-* [Particle](https://www.particle.io/)
+* p5.js alpha release of [web editor](https://alpha.editor.p5js.org).
+* [Particle](https://www.particle.io/) and see particle-notes.md in this repo.
 * Shiffman video tutorials on p5js & data [JSON 1](https://www.youtube.com/watch?v=_NFkzw6oFtQ), [JSON 2](https://www.youtube.com/watch?v=118sDpLOClw), [working with data playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r) - particularly 8.1, 8.4, 8.7.
 
 ### Readings
